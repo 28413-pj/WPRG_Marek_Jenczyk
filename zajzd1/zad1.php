@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 <?php
 
 $owoce = array("jablko", "banan", "pomarancza");
@@ -23,6 +19,3 @@ foreach ($owoce as $owoc) {
     echo "<br><br>";
 }
 ?>
-
-</body>
-</html>
